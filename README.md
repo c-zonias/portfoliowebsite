@@ -24,4 +24,5 @@ You can view the website live at: [**Portfolio Website**](https://c-zonias.githu
 
 ---
 
+## Ideas for future development
 
